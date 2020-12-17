@@ -1,0 +1,2 @@
+D:\CSC 382\Huffman Coding Project\Huffman Coding Project\Part 2\HuffmanCodingFiles\Debug\HuffmanCodingFiles.exe
+D:\CSC 382\Huffman Coding Project\Huffman Coding Project\Part 2\HuffmanCodingFiles\Debug\HuffmanCodingFiles.pdb

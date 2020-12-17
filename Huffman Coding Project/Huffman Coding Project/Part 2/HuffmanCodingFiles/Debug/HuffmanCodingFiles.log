@@ -1,0 +1,5 @@
+﻿  Huffman.cpp
+D:\CSC 382\Huffman Coding Project\Huffman Coding Project\Part 2\HuffmanCodingFiles\Huffman.cpp(186,20): warning C4018: '<': signed/unsigned mismatch
+D:\CSC 382\Huffman Coding Project\Huffman Coding Project\Part 2\HuffmanCodingFiles\Huffman.cpp(202,21): warning C4018: '<': signed/unsigned mismatch
+D:\CSC 382\Huffman Coding Project\Huffman Coding Project\Part 2\HuffmanCodingFiles\Huffman.cpp(215,12): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+LINK : fatal error LNK1168: cannot open D:\CSC 382\Huffman Coding Project\Huffman Coding Project\Part 2\HuffmanCodingFiles\Debug\HuffmanCodingFiles.exe for writing
